@@ -23,12 +23,12 @@ const Footer = props => (
       <h2>Etiam feugiat</h2>
       <dl className="alt">
         <dt>Address</dt>
-        <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
+        <dd>Somewhere &bull; London &bull; UK</dd>
         <dt>Phone</dt>
-        <dd>(000) 000-0000 x 0000</dd>
+        <dd>(+44) 000-0000 x 0000</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="mailto:uncini.michel@gmail.com?subject=8%20Hours">Contact Us</a>
         </dd>
       </dl>
       <ul className="icons">
