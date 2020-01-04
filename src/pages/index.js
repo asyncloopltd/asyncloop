@@ -108,7 +108,7 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <a href="mailto:uncini.michel@gmail.com?subject=8%20Hours" class="btn btn-light btn-lg btn-block">Contact Us</a>
+                  <a href="mailto:uncini.michel@gmail.com?subject=8%20Hours">Contact Us</a>
                 </li>
               </ul>
             </footer>
@@ -125,7 +125,7 @@ class Index extends React.Component {
               <footer className="major">
                 <ul className="actions">
                   <li>
-                    <a href="mailto:uncini.michel@gmail.com?subject=Contact%20Us" class="btn btn-light btn-lg btn-block">Contact Us</a>
+                    <a href="mailto:uncini.michel@gmail.com?subject=Contact%20Us">Contact Us</a>
                   </li>
                 </ul>
               </footer>
