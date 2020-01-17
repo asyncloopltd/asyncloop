@@ -44,7 +44,7 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3>Infrastracture as Code</h3>
+                <h3>Infrastructure as Code</h3>
                 <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vulputate arcu a sollicitudin gravida. 
                 Ut eu egestas nunc, ac hendrerit erat.
@@ -108,7 +108,7 @@ class Index extends React.Component {
             <footer className="major">
               <ul className="actions">
                 <li>
-                  <a href="mailto:uncini.michel@gmail.com?subject=8%20Hours">Contact Us</a>
+                  <a href="mailto:uncini.michel@gmail.com?subject=(AsyncLoop) 8%20Hours">Contact Us</a>
                 </li>
               </ul>
             </footer>
@@ -125,7 +125,7 @@ class Index extends React.Component {
               <footer className="major">
                 <ul className="actions">
                   <li>
-                    <a href="mailto:uncini.michel@gmail.com?subject=Contact%20Us">Contact Us</a>
+                    <a href="mailto:uncini.michel@gmail.com?subject=(AsyncLoop) Contact%20Us">Contact Us</a>
                   </li>
                 </ul>
               </footer>
